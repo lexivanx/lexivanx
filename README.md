@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex 👋
 
-I'm a DevOps Engineer with experience in Python, C++ and variety of CI/CD tools. I'm passionate about all things DevSecOps, and I love working on new technologies, as well as explore legacy tech. Balance is key.
+I'm a DevOps Engineer with experience in Python, C++ and variety of CI/CD tools. I'm passionate about all things DevSecOps, and I love working on new technologies, as well as exploring legacy tech. Balance is key.
 Currently working on expanding my portfolio and gaining more insight into App Security.
 
 ## 🛠️ Skills
@@ -8,7 +8,8 @@ Currently working on expanding my portfolio and gaining more insight into App Se
 - **Programming Languages:** Python, C++
 - **OS:** Ubuntu Server, Red Hat Enterprise Linux Server, Microsoft Server
 - **Databases:** MySQL, PostgreSQL
-- **Tools:** Docker, Ansible, Jenkins, AWS (EC2, Lambda), Azure, Kubernetes
+- **Tools:** Docker, Ansible, Jenkins, Kubernetes
+- **Cloud:** AWS, Azure
 
 ## 📚 Education
 
@@ -18,28 +19,52 @@ Currently working on expanding my portfolio and gaining more insight into App Se
 
 - **DevOps Engineer** at DXC Technology
 
-## 🌟 Projects
+## 🌟🌟 DevOps Projects
 
-### proxylex
+### Ansible playbook to configure and deploy a web app
 
-A reverse proxy and load balancer written in Lisp.
-Technologies used: Common Lisp, SBCL, Linux systemd, HTTP, caching
+Technologies used: Ansible, Python, Jinja
 
-- [View Source Code](https://github.com/lexivanx/proxylex)
+- [View Source Code](https://github.com/lexivanx/webapp-ansible-deploy)
 
-### ocelot ci/cd
+### Containerize a webapp and deploy to cluster
 
-Lightweight CI/CD tool. 
-Technologies used: C++, Python
+Technologies used: Docker, Kubernetes, Node.js
 
-- [View Source Code](https://github.com/lexivanx/ocelotcicd)
+- [View Source Code](https://github.com/lexivanx/webapp-contain-deploy)
 
-### perfmonitor
+### Flask webapp with Jenkins CI/CD pipeline
 
-Python script to monitor system performance.
+Technologies used: Docker, Jenkins, Flask
+
+- [View Source Code](https://github.com/lexivanx/webapp-cicd-flask)
+
+### Performance monitor
+
 Technologies used: Python, Shell
 
 - [View Source Code](https://github.com/lexivanx/perfmonitor)
+
+## 🛠️🌟 Dev Projects
+
+### Reverse proxy and load balancer
+
+Technologies used: Common Lisp, SBCL, Linux systemd
+Features: HTTP, SSL, Rate limiting, Response caching
+
+- [View Source Code](https://github.com/lexivanx/proxylex)
+
+### CI/CD tool
+
+- [View Source Code](https://github.com/lexivanx/ocelotcicd)
+
+Technologies used: C++, Python
+
+### Real-time chat app
+
+- [View Source Code](https://github.com/lexivanx/rt-chat-server)
+
+Technologies used: C++
 
 ## 📬 Get in Touch
 
