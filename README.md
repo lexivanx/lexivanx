@@ -1,15 +1,28 @@
 ### Hi there, I'm Alex 👋
 
-I'm a DevOps Engineer with experience in Python and C++ development, DevOps practices and variety of tools. I'm passionate about all things DevSecOps, and I love working on new technologies.
+I'm a DevOps Engineer with experience in development, DevOps practices and variety of tools. I'm passionate about all things DevSecOps, and I love working on new technologies.
 Currently working on expanding my knowledge in IoT and gaining more insight into Application Layer Security.
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, C++
-- **OS:** Ubuntu Server, Red Hat Enterprise Linux Server, Microsoft Server
-- **Databases:** MySQL, PostgreSQL
-- **Tools:** Docker, Ansible, Jenkins, Kubernetes
+- **Web development:** Flask
+- **Mobile app development:** Dart / Flutter
+- **Scripting:** Python, Bash
+- **OS:** Ubuntu, RHEL, Microsoft Servers
 - **Cloud:** AWS, Azure
+- **Provisioning:** Cloudformation, Terraform
+- **Configuration management:** Ansible, Chef, Puppet
+- **CI/CD:** Jenkins, GitLab CI/CD, Azure DevOps
+- **Web servers:** Nginx, Apache Tomcat
+- **Containerization:** Docker, Podman
+- **Orchestration:** Docker Swarm, Kubernetes
+- **Logs management:** Amazon CloudWatch Logs, ELK stack
+- **Application monitoring:** New Relic
+- **Infrastructure monitoring:** Datadog, Grafana, Prometheus
+- **Alerting:** PagerDuty
+- **Version control:** Git, Mercurial
+- **Relational Databases:** Postgres, MySQL
+- **NoSQL Databases:** Redis
 
 ## 📚 Education
 
