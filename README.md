@@ -1,7 +1,7 @@
 ### Hi there, I'm Alex 👋
 
-I'm a DevOps Engineer with experience in Python, C++ and variety of CI/CD tools. I'm passionate about all things DevSecOps, and I love working on new technologies, as well as exploring legacy tech. Balance is key.
-Currently working on expanding my portfolio and gaining more insight into App Security.
+I'm a DevOps Engineer with experience in Python and C++ development, DevOps practices and variety of tools. I'm passionate about all things DevSecOps, and I love working on new technologies.
+Currently working on expanding my knowledge in IoT and gaining more insight into Application Layer Security.
 
 ## 🛠️ Skills
 
@@ -19,7 +19,21 @@ Currently working on expanding my portfolio and gaining more insight into App Se
 
 - **DevOps Engineer** at DXC Technology
 
-## 🌟🌟 DevOps Projects
+## 🔐 DevSecOps Projects
+
+### Kubernetes Security Dashboard - overview of K8s cluster security
+
+Technologies used: Python, Kubernetes, Kubernetes API, Kube-bench, Kube-psp-advisor, Trivy, Slack API
+
+- [View Source Code](https://github.com/lexivanx/k8s-dashboard)
+
+### DevSecOps pipeline using GitLab CI/CD
+
+Technologies used: GitLab, Docker, Terraform, OpenSCAP, HashiCorp Vault, OWASP ZAP, SonarQube, Safety, Prometheus, Grafana
+
+- [View Source Code](https://github.com/lexivanx/devsecops-pipeline)
+
+## 🛠 DevOps Projects
 
 ### Ansible playbook to configure and deploy a web app
 
@@ -45,7 +59,7 @@ Technologies used: Python, Shell
 
 - [View Source Code](https://github.com/lexivanx/perfmonitor)
 
-## 🛠️🌟 Dev Projects
+## 🔨 Dev Projects
 
 ### Reverse proxy and load balancer
 
